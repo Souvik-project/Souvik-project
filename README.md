@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Souvik-project
 - 👀 I’m interested in ... anything new
-- 🌱 I’m currently learning ... looking for an oppertunity as fullstack webdeveloper
+- 🌱 I’m currently learning ... and looking for an oppertunity as fullstack webdeveloper
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... suvkedujana@gmail.com
 
